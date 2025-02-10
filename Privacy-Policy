@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Elvira-Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #444;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 24px;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Privacy Policy for Elvira-Manager</h1>
+    <p><strong>Effective Date:</strong> 08.02.2025</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>We collect the following types of information when you use [Your App Name]:</p>
+    <ul>
+        <li>Facebook Group IDs and names.</li>
+        <li>Posts and content you create using the app.</li>
+        <li>Access tokens provided by Facebook for authentication.</li>
+    </ul>
+
+    <h2>2. How We Use Your Information</h2>
+    <p>We use the information we collect to:</p>
+    <ul>
+        <li>Post content to Facebook groups on your behalf.</li>
+        <li>Improve the functionality of the app.</li>
+        <li>Comply with legal obligations.</li>
+    </ul>
+
+    <h2>3. Data Sharing</h2>
+    <p>We do not share your information with third parties except as required by law or to provide the services you request.</p>
+
+    <h2>4. Data Security</h2>
+    <p>We take reasonable measures to protect your information from unauthorized access or disclosure.</p>
+
+    <h2>5. Your Rights</h2>
+    <p>You have the right to:</p>
+    <ul>
+        <li>Access the information we hold about you.</li>
+        <li>Request deletion of your information.</li>
+        <li>Opt out of data collection.</li>
+    </ul>
+
+    <h2>6. Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at <a href="mailto:cubuget@gmail.com">support@elvira.com</a>.</p>
+
+    <h2>7. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page.</p>
+</div>
+</body>
+</html>
